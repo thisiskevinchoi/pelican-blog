@@ -16,13 +16,13 @@ DEFAULT_LANG = 'en'
 THEME = '/Users/kchoi/blog/themes/pelican-bootstrap3-minimal'
 
 # Article URL
-ARTICLE_URL = '{category}/{slug}.html'
+ARTICLE_URL = '{category}/{slug}'
 ARTICLE_SAVE_AS = '{category}/{slug}.html'
 
-PAGE_URL = '{slug}.html'
+PAGE_URL = '{slug}'
 PAGE_SAVE_AS = '{slug}.html'
 
-CATEGORY_URL = '{slug}/all.html'
+CATEGORY_URL = '{slug}/all'
 CATEGORY_SAVE_AS = '{slug}/all.html'
 
 
