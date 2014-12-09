@@ -4,7 +4,7 @@ output/
 cache/
 develop_server.sh
 fabfile.py
-Makefile
+# Makefile
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
