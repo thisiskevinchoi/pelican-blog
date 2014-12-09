@@ -4,11 +4,11 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Kev Choi'
 SITENAME = "Kev's Blog"
-SITEURL = ''
+SITEURL = 'http://104.236.173.4'
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = 'en'
 

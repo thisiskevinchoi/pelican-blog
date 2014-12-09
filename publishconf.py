@@ -10,7 +10,10 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://mywebsite.com/blog'
+SITEURL = 'http://104.236.173.4'
+
+THEME = '/home/kchoi/blog/pelican-bootstrap3-minimal'
+
 RELATIVE_URLS = False
 
 # Don't need web feed yet
