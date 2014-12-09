@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://acousmonium.com'
+SITEURL = 'http://acousmonium.com/'
 
 THEME = '/home/kchoi/blog/pelican-bootstrap3-minimal'
 
