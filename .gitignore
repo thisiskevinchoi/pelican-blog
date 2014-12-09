@@ -2,6 +2,9 @@
 output/
 *.pid
 cache/
+develop_server.sh
+fabfile.py
+Makefile
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
