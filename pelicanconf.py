@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Kev Choi'
 SITENAME = "Kev's Blog"
-SITEURL = 'http://blog.acousmonium.com'
+SITEURL = ''
 
 PATH = 'content'
 
@@ -14,7 +14,17 @@ DEFAULT_LANG = 'en'
 
 # Theme
 THEME = '/Users/kchoi/blog/themes/pelican-bootstrap3-minimal'
-# THEME = '/Users/kchoi/blog/themes/pelican-themes-master/mnmlist'
+
+# Article URL
+ARTICLE_URL = '{category}/{slug}'
+ARTICLE_SAVE_AS = '{category}/{slug}.html'
+
+PAGE_URL = '{slug}'
+PAGE_SAVE_AS = '{slug}.html'
+
+CATEGORY_URL = '{slug}/all'
+CATEGORY_SAVE_AS = '{slug}/all.html'
+
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -33,7 +43,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
-DEFAULT_PAGINATION = 2
+DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

@@ -1,8 +1,9 @@
-Title: Post 2
+Title: Test Post
 Date: 2014-12-04
 Modified: 2014-12-04
-Slug: post2
-Summary: This is an example post 2.
+Slug: test-post
+Summary: This is an example post.
+Tags: test
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent porttitor enim diam, ut rhoncus leo finibus ac. Sed pulvinar consequat nisi ut venenatis. Praesent sit amet justo venenatis, fermentum ex vitae, fringilla lectus. Quisque feugiat enim euismod feugiat auctor. Aenean sed consequat velit. Aliquam sed massa ac odio molestie faucibus in vel tortor. Fusce rhoncus ut felis ac dignissim. Fusce nunc ex, consequat vel vulputate quis, semper non est. Proin sodales eros dictum nibh feugiat, sit amet varius est pellentesque. Nulla dictum vulputate iaculis. Donec bibendum velit eget tincidunt mattis. Pellentesque bibendum a lectus iaculis imperdiet. Sed dapibus tincidunt odio, eget tempus nibh tristique ut. Pellentesque pharetra dapibus arcu, nec hendrerit ipsum elementum eu. Donec pharetra in tellus sit amet gravida. Nam efficitur urna diam, ut vulputate mi convallis sed.
