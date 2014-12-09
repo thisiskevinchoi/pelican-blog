@@ -8,4 +8,4 @@ Describe the blog here.
 
 I'm a senior at Harvey Mudd College. I'm majoring in Computer Science.
 
-[example link](http://asdfgoogle.com/)
+[example link](http://google.com/)
