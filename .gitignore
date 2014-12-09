@@ -1,6 +1,7 @@
 # Unnecessary Pelican files
 output/
 *.pid
+cache/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
