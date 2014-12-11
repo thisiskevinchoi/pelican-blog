@@ -27,4 +27,4 @@ Here is a collection of minimalist wallpapers that I designed and created.
 
 ![Apple Wallpaper Light]({filename}/images/intro-to-digital-art-portfolio/apple-wallpaper-light.jpg)
 
-
+![Quote Wallpaper Light]({filename}/images/intro-to-digital-art-portfolio/quote-wallpaper-light.jpg)
