@@ -11,11 +11,11 @@ I've always wanted to design and create my own blog. Here is the initial design 
 
 ![Blog Design]({filename}/images/intro-to-digital-art-portfolio/blog-design.jpg)
 
-As a part of the final project, I decided to make it. The site you are looking at is the realization of my design. Hope you enjoy it.
+I decided to make it. The site you are looking at is the realization of my design. Hope you enjoy it.
 
 ### Minimalist Wallpapers
 
-Here are a collection of minimalist wallpapers that I designed and created.
+Here is a collection of minimalist wallpapers that I designed and created.
 
 ![Minimal Wallpaper Dark]({filename}/images/intro-to-digital-art-portfolio/minimal-wallpaper-dark.jpg)
 
